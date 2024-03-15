@@ -9,11 +9,6 @@ We want to test you end-end to software development skills, so we want you to bu
 5. Axios
 6. notistack
 7. React-error-boundary
-8. Express
-9. node-fetch
-10. Error Handlings
-11. Loggers
-12. Custom Exceptions
  
 
 # Assignment Deadline : 18th March 10 AM 
