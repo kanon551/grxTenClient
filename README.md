@@ -1,5 +1,6 @@
 ## Full stack developer assignment – GRX10 
 We want to test you end-end to software development skills, so we want you to build a solar calculator for Bengaluru region.  
+![2024-03-15 (1)](https://github.com/kanon551/grxTenClient/assets/88090133/108a5b27-0bbc-41c7-801d-edff78f4d419)
 
 # Technical Aspects
 1. React
